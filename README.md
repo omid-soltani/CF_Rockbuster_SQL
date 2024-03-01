@@ -1,25 +1,24 @@
-# Rockbuster Stealth LLC Data Analysis
+# Rockbuster Stealth Data Analysis Project
 
-## Introduction
-Welcome to the Rockbuster Stealth LLC Data Analysis Repository! In this project, we dive into the world of data to support Rockbuster Stealth's transition to an online video rental service. In the face of fierce competition from streaming giants, such as Netflix and Amazon Prime, our mission is to harness the power of Rockbuster's extensive movie licenses through insightful data analysis.
+## Overview
+Welcome to the Rockbuster Stealth Data Analysis project! This repository contains the code and documentation for a comprehensive analysis of Rockbuster Stealth LLC's movie rental data. As a data analyst, I've delved into Rockbuster's dataset, providing valuable insights using SQL. This project is part of the company's strategy for 2020, aiming to inform decision-making and optimize the launch of their new online video rental service.
 
-## Project Overview
-As a data analyst within the Business Intelligence (BI) department, our primary objective is to develop a robust launch strategy. The initial step involves loading Rockbuster's data into a Relational Database Management System (RDBMS) and utilizing SQL for comprehensive analysis. This analysis will not only assist the BI department but will also cater to the data-related queries of various departments, ranging from inventory management to customer insights.
+## Key Features
+- **Data Loading and Management:**
+  - Organized Rockbuster's extensive dataset into a Relational Database Management System (RDBMS).
+  
+- **SQL Analysis:**
+  - Utilized SQL queries to answer critical business questions, ranging from revenue contribution by movies to customer demographics.
 
-## Key Questions and Objectives
-The Rockbuster Stealth Management Board has outlined crucial business questions for the 2020 company strategy, and our analysis aims to provide data-driven answers. The results will be compiled into an easily digestible format for presentation to the Management Board. Here are the key questions guiding our analysis:
+- **Interactive Visualizations:**
+  - Check out the Tableau Public link provided in the next section for interactive visualizations derived from the data analysis.
 
-1. **Revenue Contribution by Movies:**
-   - Identify movies that significantly contributed to both the highest and lowest revenue gains.
+## Data Set Information
+The dataset used in this analysis comprises Rockbuster Stealth LLC's historical movie rental data. This dataset is pivotal in understanding customer behavior, revenue trends, and regional variations.
 
-2. **Average Rental Duration:**
-   - Determine the average rental duration for all videos to understand user viewing habits.
+## Tableau Public Visualization
+For a more interactive exploration of the insights derived from this analysis, visit the [Tableau Public Dashboard](<div class='tableauPlaceholder' id='viz1709298055369' style='position: relative'><noscript><a href='#'><img alt='Sales Figures Variation by Geographical Regions ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ro&#47;Rock_17061224647080&#47;SalesbyRegion&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Rock_17061224647080&#47;SalesbyRegion' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ro&#47;Rock_17061224647080&#47;SalesbyRegion&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1709298055369');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>) associated with this project. The dashboard provides dynamic visualizations, making it easier to comprehend and interpret the key findings.
 
-3. **Customer Locations:**
-   - Explore the countries where Rockbuster customers are predominantly based.
+Feel free to explore the code, contribute, or reach out with any questions or suggestions. Let's make Rockbuster Stealth's journey into online video rentals a success!
 
-4. **High Lifetime Value Customers:**
-   - Identify the geographical locations of customers with a high lifetime value.
-
-5. **Regional Sales Variations:**
-   - Investigate if sales figures exhibit variations across different geographic regions.
+*Happy Analyzing!*
