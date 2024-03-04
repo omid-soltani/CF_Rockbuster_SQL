@@ -20,5 +20,3 @@ The dataset used in this analysis comprises Rockbuster Stealth LLC's historical 
 For a more interactive exploration of the insights derived from this analysis, visit the [Tableau Public Dashboard](https://public.tableau.com/views/Rock_17061224647080/SalesbyRegion?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) associated with this project. The dashboard provides dynamic visualizations, making it easier to comprehend and interpret the key findings.
 
 Feel free to explore the code, contribute, or reach out with any questions or suggestions. Let's make Rockbuster Stealth's journey into online video rentals a success!
-
-*Happy Analyzing!*
