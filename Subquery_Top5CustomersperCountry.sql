@@ -1,4 +1,4 @@
--- This is a query to find the top 5 customers within each country
+-- This is a subquery to find the top 5 customers within each country
 
 SELECT D.country,
 	COUNT(DISTINCT A.customer_id) AS all_customer_count,
